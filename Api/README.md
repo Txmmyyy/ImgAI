@@ -1,3 +1,3 @@
 # ImgAI Api
 
-Api for the ImgAI app
+Api for the ImgAI app.
